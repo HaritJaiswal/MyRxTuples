@@ -1,2 +1,2 @@
 # MyRxTuples
-Latest implementation of RxTuplles
+Latest implementation of RxTuples
